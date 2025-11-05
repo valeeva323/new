@@ -1,7 +1,9 @@
-#include <iostream>
-using namespace std;
+using System;
 
-int main() {
-    cout << "Привет, мир!" << endl;
-    return 0;
+class Program
+{
+    static void Main()
+    {
+        Console.WriteLine("Привет, мир!");
+    }
 }
