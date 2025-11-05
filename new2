@@ -1,1 +1,9 @@
-sssssd
+using System;
+
+class HelloWorld
+{
+    static void Main()
+    {
+        Console.WriteLine("Это моя первая программа");
+    }
+}
